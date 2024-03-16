@@ -1,0 +1,4 @@
+baseURL = 'https://blog.nradk.com/'
+languageCode = 'en-us'
+title = "nradk's blog"
+theme = 'etch'
