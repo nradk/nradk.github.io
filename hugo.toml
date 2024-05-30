@@ -1,0 +1,4 @@
+baseURL = 'https://blog.nradk.com/'
+languageCode = 'en-us'
+title = "Neeraj Adhikari's blog"
+theme = 'etch'
