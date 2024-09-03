@@ -20,16 +20,11 @@ that I have found, and I'll keep expanding this list as I hopefully find more
 in the future.
 
 ## Sieve of Eratosthenes
-
-> Sift the Two's and Sift the Three's,
->
-> The Sieve of Eratosthenes.
->
-> When the multiples sublime,
->
-> The numbers that remain are Prime.
->
-> -- Anonymous
+> Sift the Two's and Sift the Three's,<br>
+The Sieve of Eratosthenes.<br>
+When the multiples sublime,<br>
+The numbers that remain are Prime.<br><br>
+-- Anonymous
 
 The [sieve of
 Eratosthenes](https://en.wikipedia.org/wiki/Sieve_of_Eratosthenes) is an
@@ -43,23 +38,15 @@ all numbers that remain unmarked are primes.
 
 ## Gradient Descent
 
-> Still the fog persists.
->
-> Let the incline have its way
->
-> and set your compass.
->
-> Keep taking footsteps
->
-> until that first suspicion
->
-> of an uphill slope
->
-> then turn left or right,
->
-> just one of many zig-zags.
->
-> Will it ever end?
+>Still the fog persists.<br>
+Let the incline have its way<br>
+and set your compass.<br><br>
+Keep taking footsteps<br>
+until that first suspicion<br> 
+of an uphill slope<br><br>
+then turn left or right,<br>
+just one of many zig-zags.<br>
+Will it ever end?<br>
 
 This poem by Michael Bartholomew-Biggs appears in his paper titled [Algorithms
 and Poetry](https://www.researchgate.net/publication/282948019_Poetry_Algorithms), along with other poems describing algorithms for
@@ -75,29 +62,18 @@ surroundings of the point we are at, instead of the entire topography.
 
 ## Spanning Tree Protocol
 
-> I think that I shall never see
->
-> A graph more lovely than a tree.
->
-> A tree whose crucial property
->
-> Is loop-free connectivity.
->
-> A tree which must be sure to span
->
-> So packets can reach every LAN.
->
-> First the root must be selected.
->
-> By ID it is elected.
->
-> Least cost paths from root are traced.
->
-> In the tree these paths are placed.
->
-> A mesh is made by folks like me
->
-> Then bridges find a spanning tree.
+>I think that I shall never see<br>
+A graph more lovely than a tree.<br><br>
+A tree whose crucial property<br>
+Is loop-free connectivity.<br><br>
+A tree which must be sure to span<br>
+So packets can reach every LAN.<br><br>
+First the root must be selected.<br>
+By ID it is elected.<br><br>
+Least cost paths from root are traced.<br>
+In the tree these paths are placed.<br><br>
+A mesh is made by folks like me<br>
+Then bridges find a spanning tree.
 
 This one by [Radia Perlman](https://en.wikipedia.org/wiki/Radia_Perlman) is my
 favorite. It describes the algorithm for the [Spanning Tree Protocol](https://en.wikipedia.org/wiki/Spanning_Tree_Protocol), which is used implemented by
