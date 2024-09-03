@@ -229,3 +229,6 @@ alternatives exist for many product segments in which Google dominates, and I
 think it is worthwhile to reduce your dependence on Google where you can. If you
 are so inclined, self-hosting can provide even more freedom and privacy. 
 
+---
+
+*This post was discussed in [Hacker News](https://news.ycombinator.com/item?id=40539031).*
