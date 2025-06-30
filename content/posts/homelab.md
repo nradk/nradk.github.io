@@ -1,7 +1,7 @@
 +++
 title = 'My home servers are not a homelab'
-date = 2025-06-29T18:30:00-07:00
-draft = true
+date = 2025-06-29T18:25:00-07:00
+draft = false
 +++
 
 First, what is a homelab? While I don't think there's a dictionary definition, a homelab seems to refer loosely to the collection of servers, networking gear, and supporting infrastructure that someone has set up in their home, for experimentation and learning, either for fun or to develop skills.
