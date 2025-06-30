@@ -14,3 +14,7 @@ Here are some links:
 - github : [nradk](https://www.github.com/nradk)
 
 I can be reached at **hi _at_ nradk _dot_ com**.
+
+---
+
+I don't use AI models to write, edit or refine the posts in this blog.
