@@ -2,14 +2,14 @@
 title = 'About Me'
 +++
 
-Hi! I'm Neeraj Adhikari. 
+Hi! I'm Neeraj Adhikari. I work as a software engineer. I love free and open-source software, care about data privacy and
+dabble in self-hosting. Recently I've become more interested in type theory, formal methods, and the mathematics of
+computing in general.
 
-I am a software engineer with interests in algorithms, mathematics, linux,
-free software, self-hosting, privacy, languages (both natural and programming),
-and more.
+I was born and raised in Nepal, and I currently live in Spokane, WA.
 
 Here are some links:
-- LinkedIn : [Neeraj Adhikari](https://www.linkedin.com/in/neeraj-adhikari-554b35ba/)
+- LinkedIn : [Neeraj Adhikari](https://www.linkedin.com/in/neeraj-adhikari/)
 - gitlab : [neerajadh](https://www.gitlab.com/neerajadh)
 - github : [nradk](https://www.github.com/nradk)
 
